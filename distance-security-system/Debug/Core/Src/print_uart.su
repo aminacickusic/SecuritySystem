@@ -1,0 +1,4 @@
+../Core/Src/print_uart.c:9:6:put_char_uart	16	static
+../Core/Src/print_uart.c:17:9:get_char_uart	16	static
+../Core/Src/print_uart.c:26:6:print_string_uart	24	static
+../Core/Src/print_uart.c:49:6:print_uart	88	static
